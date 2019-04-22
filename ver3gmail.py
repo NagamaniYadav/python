@@ -1,6 +1,7 @@
 import smtplib
 import pymysql as dbms
 
+This is Nagamani Yadav
 
 c=db.cursor()
 c.execute('select Mail,Name from employee')
