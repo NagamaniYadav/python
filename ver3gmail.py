@@ -3,6 +3,7 @@ import pymysql as dbms
 
 Hi msg 
 Hello msg
+Sun
 
 c=db.cursor()
 c.execute('select Mail,Name from employee')
